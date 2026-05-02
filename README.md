@@ -29,8 +29,8 @@ The pipeline handles over **50 million flight records** spanning 36 months, appl
 | Detail | Value |
 |---|---|
 | **Data Source** | Bureau of Transportation Statistics (BTS) TranStats |
-| **Dataset Size** | ~7 GB raw CSV · ~50M rows across 36 months |
-| **Date Range** | 2021 – 2023 |
+| **Dataset Size** | ~7 GB raw CSV · ~50M rows across 24 months |
+| **Date Range** | 2021 – 2022 |
 | **Architecture** | Medallion (Bronze → Silver → Gold) Data Lakehouse |
 | **Processing Engine** | Apache Spark (PySpark) on Databricks Community Edition |
 | **Storage Layer** | Amazon S3 + Delta Lake (ACID, time travel, schema enforcement) |
