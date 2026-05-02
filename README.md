@@ -12,7 +12,7 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-Serving%20Layer-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**~50M rows · 7GB raw data · 36 months (2021–2023) · Medallion Architecture**
+**~50M rows · 7GB raw data · 24 months (2021–2022) · Medallion Architecture**
 
 *Bureau of Transportation Statistics (BTS) → S3 → Databricks → Snowflake → Power BI*
 
